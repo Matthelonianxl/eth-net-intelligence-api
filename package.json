@@ -10,7 +10,7 @@
   "dependencies": {
     "async": "^1.0.0",
     "chalk": "^1.0.0",
-    "debounce": "1.0.0",
+    "debounce": "1.2.0",
     "debug": "2.2.0",
     "lodash": "4.1.0",
     "primus": "4.0.5",
