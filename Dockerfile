@@ -32,7 +32,7 @@
 ## If you now want to deploy a new client version, just redo the second step.
 
 
-FROM debian
+FROM debian:11
 
 RUN apt-get update &&\
     apt-get install -y curl git-core &&\
